@@ -1,4 +1,4 @@
-## 1 Goals of this Assignment
+## 1. Goals of this Assignment
 
 Your goal is to construct a simulator of an automated control system for the
 railway track shown in Figure 1 (i.e., to emulate the scheduling of multiple
@@ -72,7 +72,7 @@ Trains are numbered sequentially from 0 according to their order in the input fi
 
 Note: You may assume that no more than `75` trains will be provided.
 
-## 3 Simulation Rules
+## 3. Simulation Rules
 
 The rules enforced by the automated control system are:
 + Only one train is on the main track at any given time.
@@ -90,7 +90,7 @@ The rules enforced by the automated control system are:
 the main track **back to back**, the trains waiting in the opposite direction get a
 chance to dispatch one train if any.
 
-### 3.1 Output
+### 3.1. Output
 
 For the example, shown in Section 2.1.2, the correct output is:
 
